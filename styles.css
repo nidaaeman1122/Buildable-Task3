@@ -131,6 +131,11 @@ main {
 .nutrition td {
     padding: 8px;
     border-bottom: 1px solid #ddd;
+    color: #5F574E;
+}
+
+.nutrition p{
+    color: #5F574E; 
 }
 
 .nutrition .highlight {
@@ -218,6 +223,7 @@ main {
         font-size: 28px;
     }
 }
+
 
 
 
