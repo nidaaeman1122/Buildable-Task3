@@ -33,7 +33,7 @@ Readme.md #documentation
 - **Desktop:** Card is 624×1529 px with fixed image size.
 - **Mobile (≤768px):** Card adjusts to 427×1721 px and the image scales to 100% width.
 
-GitHub Link:https://github.com/nidaaeman1122/Buildable-Task3.git
+GitHub Link:https://github.com/nidaaeman1122/-Nida-Eman--Buildable-Task3.git
 Netlify Link: https://buildablestask3.netlify.app/
 
 ---
