@@ -34,13 +34,14 @@ Readme.md #documentation
 - **Mobile (≤768px):** Card adjusts to 427×1721 px and the image scales to 100% width.
 
 GitHub Link:https://github.com/nidaaeman1122/Buildable-Task3.git
-Netlify Link:
+Netlify Link: https://buildablestask3.netlify.app/
 
 ---
 
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (Flexbox + Media Queries)
+
 
 
 
