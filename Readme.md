@@ -33,9 +33,14 @@ Readme.md #documentation
 - **Desktop:** Card is 624×1529 px with fixed image size.
 - **Mobile (≤768px):** Card adjusts to 427×1721 px and the image scales to 100% width.
 
+GitHub Link:
+
+Netlify Link:
+
 ---
 
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (Flexbox + Media Queries)
+
 
